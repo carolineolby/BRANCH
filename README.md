@@ -4,3 +4,4 @@ Bergshamra
 Universitetet
 Tekniska Högskolan
 Stadion
+Östermalmstorg
