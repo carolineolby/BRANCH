@@ -10,3 +10,4 @@ Hötorget
 Rådmansgatan
 Odenplan
 S:t Eriksplan
+Fridhemsplan
