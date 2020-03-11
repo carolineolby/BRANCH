@@ -6,3 +6,4 @@ Tekniska Högskolan
 Stadion
 Östermalmstorg
 T-Centralen
+Hötorget
