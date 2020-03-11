@@ -11,3 +11,4 @@ Rådmansgatan
 Odenplan
 S:t Eriksplan
 Fridhemsplan
+Rådhuset
