@@ -7,3 +7,4 @@ Stadion
 Östermalmstorg
 Karlaplan
 Gärdet
+Ropsten
