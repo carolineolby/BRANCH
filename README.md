@@ -5,3 +5,4 @@ Universitetet
 Tekniska Högskolan
 Stadion
 Östermalmstorg
+Karlaplan
