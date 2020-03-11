@@ -9,3 +9,4 @@ T-Centralen
 Hötorget
 Rådmansgatan
 Odenplan
+S:t Eriksplan
