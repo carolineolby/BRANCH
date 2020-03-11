@@ -12,3 +12,4 @@ Odenplan
 S:t Eriksplan
 Fridhemsplan
 Rådhuset
+T-Centralen
